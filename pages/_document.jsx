@@ -1,4 +1,5 @@
 import { Html, Head, Main, NextScript } from "next/document";
+import neokpro from "../public/neokwhite.png";
 
 export default function Document() {
   return (
@@ -22,14 +23,14 @@ export default function Document() {
         />
         <meta
           property="og:image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
+          content={neokpro}
         />
 
         {/* <!-- Twitter --> */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
-          content="https://pranjalshikhar.vercel.app/"
+          content="https://nvvr-huudas.vercel.app/"
         />
         <meta
           property="twitter:title"
@@ -41,7 +42,7 @@ export default function Document() {
         />
         <meta
           property="twitter:image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
+          content={neokpro}
         />
 
         {/* whatsapp */}
@@ -54,12 +55,12 @@ export default function Document() {
         <meta
           property="og:image"
           itemprop="image"
-          content="https://res.cloudinary.com/dhtviyhse/image/upload/v1682600618/pranjalshikhar_i8znzx.jpg"
+          content={neokpro}
         />
         <meta property="og:type" content="website" />
 
         {/* canonical links */}
-        <link rel="canonical" href="https://pranjalshikhar.vercel.app/" />
+        <link rel="canonical" href="https://nvvr-huudas.vercel.app/" />
         <link
           rel="search"
           href="/opensearch.xml"
