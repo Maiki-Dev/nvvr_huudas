@@ -1,5 +1,6 @@
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import "@/styles/globals.css";
 import { ThemeProvider } from "next-themes";
 
@@ -11,6 +12,7 @@ export default function App({ Component, pageProps }) {
         <Component {...pageProps} />
         <Footer />
       </main>
+      <SpeedInsights />
     </ThemeProvider>
   );
 }
