@@ -1,5 +1,5 @@
 import { Html, Head, Main, NextScript } from "next/document";
-import neokpro from "../public/neokwhite.png";
+import neokpro from "./public/neokwhite.png";
 
 export default function Document() {
   return (
