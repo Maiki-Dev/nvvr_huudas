@@ -153,7 +153,7 @@ export default function About() {
                 target="blank"
               >
                 {" "}
-                З' Анхбаяр{" "}
+                anhbyr{" "}
               </a>{" "}
               or you can DM me on{" "}
               <span className="text-orange-500 font-bold">Instagram</span>{" "}

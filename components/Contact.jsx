@@ -22,7 +22,7 @@ const Contact = () => {
           >
             <TfiFacebook className="text-[#518FC7] dark:text-[#2498fe] h-3 w-3 md:h-4 md:w-4 " />
             <h5 className="text-transparent dark:text-[#2498fe]">
-              З' Анхбаяр
+              Anhbayr
             </h5>
           </a>
           <a
