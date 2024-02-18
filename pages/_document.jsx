@@ -1,5 +1,4 @@
 import { Html, Head, Main, NextScript } from "next/document";
-import neokpro from "./public/neokwhite.png";
 
 export default function Document() {
   return (
@@ -23,7 +22,7 @@ export default function Document() {
         />
         <meta
           property="og:image"
-          content={neokpro}
+          content="https://imgur.com/djMohI5"
         />
 
         {/* <!-- Twitter --> */}
@@ -42,7 +41,7 @@ export default function Document() {
         />
         <meta
           property="twitter:image"
-          content={neokpro}
+          content="https://imgur.com/djMohI5"
         />
 
         {/* whatsapp */}
@@ -55,12 +54,12 @@ export default function Document() {
         <meta
           property="og:image"
           itemprop="image"
-          content={neokpro}
+          content="https://imgur.com/djMohI5"
         />
         <meta property="og:type" content="website" />
 
         {/* canonical links */}
-        <link rel="canonical" href="https://nvvr-huudas.vercel.app/" />
+        <link rel="canonical" href="hhttps://nvvr-huudas.vercel.app/" />
         <link
           rel="search"
           href="/opensearch.xml"
