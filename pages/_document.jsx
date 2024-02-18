@@ -53,7 +53,7 @@ export default function Document() {
         />
         <meta
           property="og:image"
-          itemprop="image"
+          itemProp="image"
           content="https://imgur.com/djMohI5"
         />
         <meta property="og:type" content="website" />
