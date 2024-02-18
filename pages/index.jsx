@@ -63,7 +63,7 @@ export default function Home() {
           <div className="mt-12 m:text-xl md:text-xl lg:text-2xl">
             <p className="font-light sm:leading-6 md:leading-6 lg:leading-8">
               A front-end engineer based in{" "}
-              <span className="font-medium select-none animate-text bg-gradient-to-br from-[#ff0000] dark:from-[#ff0000] via-[#0000ff] dark:via-[#fff] dark:text-black  text-border2 to-[#0b5394] dark:to-[#3d85c6] rounded px-2 py-[0.05rem] ">
+              <span className="font-medium select-none animate-text bg-gradient-to-br from-[#ff0000] dark:from-[#ff0000] via-[#0000ff] dark:via-[#fff] dark:text-black  text-border2 to-[#0b5394] dark:to-[#3d85c6git] rounded px-2 py-[0.05rem] ">
                 MONGOLIAN
               </span>{" "}
               who develops modern, reactive, and user-friendly web applications
