@@ -21,7 +21,7 @@ export default function About() {
   useEffect(() => {
     console.clear();
     console.log.apply(console, [
-      "%c A brief intro about my self. Well a little brag about myself. 🐼\n",
+      "%c Миний өөрийн тухай товч танилцуулга. 🐼\n",
       "color: #fff; background: #8000ff; padding:5px 0;",
     ]);
   }, []);

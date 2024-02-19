@@ -141,7 +141,7 @@ const tech = () => {
   useEffect(() => {
     console.clear();
     console.log.apply(console, [
-      "%c Tech Stack I loved to work on. 🍾\n",
+      "%c Миний ашиглах дуртай зүйлс 🍾\n",
       "color: #fff; background: #8000ff; padding:5px 0;",
     ]);
   }, []);

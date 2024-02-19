@@ -6,7 +6,7 @@ export default function Wok() {
   useEffect(() => {
     console.clear();
     console.log.apply(console, [
-      "%c Mиний ажиллаж байсан зарим онцлох төслүүд. 🍾\n",
+      "%c Mиний ажиллаж байсан нээлттэй зарим онцлох төслүүд. 🍾\n",
       "color: #fff; background: #8000ff; padding:5px 0;",
     ]);
   }, []);
