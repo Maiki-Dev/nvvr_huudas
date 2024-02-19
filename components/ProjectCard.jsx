@@ -14,14 +14,6 @@ const ProjectCard = () => {
   const data = [
     {
       id: 1,
-      image: aizen,
-      title: "Aizen",
-      description: "Create beautiful images and gifs of your source code",
-      link: "/work/aizen",
-      target: "_self",
-    },
-    {
-      id: 2,
       image: kamui,
       title: "Kamui",
       description: "Kanban board for planner with superpowers",
@@ -29,7 +21,7 @@ const ProjectCard = () => {
       target: "_self",
     },
     {
-      id: 3,
+      id: 2,
       image: nike,
       title: "Nike Store",
       description: "Nike Store Landing Page",
@@ -37,15 +29,7 @@ const ProjectCard = () => {
       target: "_blank",
     },
     {
-      id: 4,
-      image: nft,
-      title: "NFT Page",
-      description: "NFT Landing Page",
-      link: "https://pranjalshikhar.github.io/nft-landing-page/",
-      target: "_blank",
-    },
-    {
-      id: 5,
+      id: 3,
       image: cryptohunter,
       title: "Crypto Hunter",
       description: "Get the Trending Crypto list with its Price",
@@ -53,7 +37,7 @@ const ProjectCard = () => {
       target: "_self",
     },
     {
-      id: 6,
+      id: 4,
       image: redeye,
       title: "Red Eye",
       description: "Question based website to know your movie genre",

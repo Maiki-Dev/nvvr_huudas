@@ -44,16 +44,6 @@ export default function Aizen() {
                 <p>Live</p>
               </Link>
             </div>
-            <div className=" group border-blue-400 hover:bg-blue-400 text-blue-500 hover:text-white hover:drop-shadow-2xl rounded-md md:rounded-xl px-2 py-1 md:px-4 md:py-2 shadow-md drop-shadow-lg dark:bg-blue-400 dark:shadow-none dark:hover:shadow-white select-none dark:text-white shadow-blue-300">
-              <Link
-                href="https://github.com/pranjalshikhar/aizen"
-                target="_blank"
-                className="flex items-center font-normal lg:font-bold space-x-2 text-sm md:text-base  "
-              >
-                <FaGithub className=" dark:stroke-white stroke-blue-400 stroke-2 group-hover:stroke-white " />
-                <p>Code</p>
-              </Link>
-            </div>
           </div>
           <div className=" mx-auto flex flex-col ">
             <h4
