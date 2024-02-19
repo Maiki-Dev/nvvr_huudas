@@ -26,7 +26,7 @@ const Contact = () => {
             </h5>
           </a>
           <a
-            href="https://www.linkedin.com/in/pranjalshikhar"
+            href="https://instagram.com/anhaa2u"
             target="_blank"
             rel="noopener noreferrer"
             className=" flex align-middle items-center font-jak font-bold space-x-1 w-max "
